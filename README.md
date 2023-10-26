@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meghanakorikana
 - 👀 I’m interested in Designing 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Figma
 - 💞️ I’m looking to collaborate on Adobe
 - 📫 How to reach me ...
 meghanakorikana@gmail.com
